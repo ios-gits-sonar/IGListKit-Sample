@@ -1,0 +1,81 @@
+PODS:
+  - ChameleonFramework (2.1.0):
+    - ChameleonFramework/Default (= 2.1.0)
+  - ChameleonFramework/Default (2.1.0)
+  - FLAnimatedImage (1.0.12)
+  - IGListDiffKit (4.0.0)
+  - IGListKit (4.0.0):
+    - IGListDiffKit (= 4.0.0)
+  - IQKeyboardManager (6.5.6)
+  - M13Checkbox (3.4.0)
+  - Material (3.1.8):
+    - Material/Core (= 3.1.8)
+  - Material/Core (3.1.8):
+    - Motion (~> 3.1.1)
+  - Motion (3.1.3):
+    - Motion/Core (= 3.1.3)
+  - Motion/Core (3.1.3)
+  - PureLayout (3.1.6)
+  - RxSwift (5.1.1)
+  - SDWebImage (4.4.8):
+    - SDWebImage/Core (= 4.4.8)
+  - SDWebImage/Core (4.4.8)
+  - SDWebImage/GIF (4.4.8):
+    - FLAnimatedImage (~> 1.0)
+    - SDWebImage/Core
+  - Shimmer (1.0.2)
+  - SwiftMessages (8.0.2):
+    - SwiftMessages/App (= 8.0.2)
+  - SwiftMessages/App (8.0.2)
+  - UIColor_Hex_Swift (5.1.0)
+
+DEPENDENCIES:
+  - ChameleonFramework
+  - IGListKit
+  - IQKeyboardManager
+  - M13Checkbox
+  - Material
+  - PureLayout
+  - RxSwift
+  - SDWebImage
+  - SDWebImage/GIF
+  - Shimmer
+  - SwiftMessages
+  - UIColor_Hex_Swift
+
+SPEC REPOS:
+  trunk:
+    - ChameleonFramework
+    - FLAnimatedImage
+    - IGListDiffKit
+    - IGListKit
+    - IQKeyboardManager
+    - M13Checkbox
+    - Material
+    - Motion
+    - PureLayout
+    - RxSwift
+    - SDWebImage
+    - Shimmer
+    - SwiftMessages
+    - UIColor_Hex_Swift
+
+SPEC CHECKSUMS:
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  IGListDiffKit: 665d6cf43ce726e676013db9c7d6c4294259b6b2
+  IGListKit: fd5a5d21935298f5849fa49d426843cff97b77c7
+  IQKeyboardManager: 2a6e97afdafc7becf0cb17a9a8d795e3a980717f
+  M13Checkbox: 6f59404540ac98ba83a3d1afac335895a40c6a5d
+  Material: a2a3f400a3b549d53ef89e56c58c4535b29db387
+  Motion: cf1e060e489f6661126374d5c60dbd2ed991605c
+  PureLayout: bd3c4ec3a3819ad387c99ebb72c6b129c3ed4d2d
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SDWebImage: 783af2c3fa36291a250030c4752ee370a9a51d13
+  Shimmer: c5374be1c2b0c9e292fb05b339a513cf291cac86
+  SwiftMessages: 633304165351b8e3dcbb81a71f8efcd86f9c1669
+  UIColor_Hex_Swift: 8be7432edacb7fa91c78aa05ef3c30b66e4f9415
+
+PODFILE CHECKSUM: 5bbb0696647df2ba3a123a455ea8ef5a53c7ebb1
+
+COCOAPODS: 1.9.3
